@@ -273,7 +273,7 @@
     },
     {"tag": "fact-21",
         "patterns": ["Where can I go to find therapy?"],
-        "responses": ["Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them (for example, children will benefit from a therapist who specializes in childrenâ€™s mental health). However, there are several different types of treatment and therapy that can help."]
+        "responses": ["Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them (for example, children will benefit from a therapist who specializes in childrens mental health). However, there are several different types of treatment and therapy that can help."]
     },
     {"tag": "fact-22",
         "patterns": ["Where can I learn about types of mental health treatment?"],
